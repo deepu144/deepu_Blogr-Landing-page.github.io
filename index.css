@@ -16,7 +16,7 @@ body{
 
 .top-main-container{
     height:50vh;
-    background-image: url('/images/blogr_proj_img/bg-pattern-intro-desktop.svg'),linear-gradient(to left,hsl(356,100%,66%),hsl(356,100%,66%),hsl(356,100%,66%),hsl(356,100%,66%),hsl(355, 96%, 71%));
+    background-image: url('images/bg-pattern-intro-desktop.svg'),linear-gradient(to left,hsl(356,100%,66%),hsl(356,100%,66%),hsl(356,100%,66%),hsl(356,100%,66%),hsl(355, 96%, 71%));
     background-size: 130rem;
     background-position:center left;
     border-bottom-left-radius: 70px;
@@ -229,7 +229,7 @@ body{
 .block-2{
     display: flex;
     height: 40vh;
-    background-image: url('/images/blogr_proj_img/bg-pattern-circles.svg') , linear-gradient(to right,hsl(237,17%,21%),hsl(237,17%,21%),hsl(237,23%,32%));
+    background-image: url('images/bg-pattern-circles.svg') , linear-gradient(to right,hsl(237,17%,21%),hsl(237,17%,21%),hsl(237,23%,32%));
     background-repeat: no-repeat;
     background-position:left bottom;
 /* background-size: 100% 100%;
